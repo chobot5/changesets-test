@@ -1,5 +1,11 @@
 # app-1
 
+## 2.0.2
+
+### Patch Changes
+
+- kukitko app2 and app1fix and red dwarf
+
 ## 2.0.1
 
 ### Patch Changes

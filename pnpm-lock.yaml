@@ -21,6 +21,12 @@ importers:
         specifier: workspace:*
         version: link:../../libs/ts-functions
 
+  apps/app-2:
+    dependencies:
+      ts-functions:
+        specifier: workspace:*
+        version: link:../../libs/ts-functions
+
   libs/ts-functions: {}
 
 packages:

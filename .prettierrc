@@ -5,8 +5,5 @@
   "jsxSingleQuote": true,
   "semi": false,
   "trailingComma": "none",
-  "no-var-keyword": true,
-  "importOrder": ["<THIRD_PARTY_MODULES>","^@uciteling/(.*)$", "^[./]"],
-  "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true
+  "no-var-keyword": true
 }

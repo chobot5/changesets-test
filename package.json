@@ -12,6 +12,7 @@
   "author": "Milan Mladek",
   "license": "ISC",
   "devDependencies": {
+    "@changesets/changelog-git": "^0.2.1",
     "@changesets/cli": "^2.28.1",
     "prettier": "^3.5.3"
   }

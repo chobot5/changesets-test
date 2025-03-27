@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "ts-functions": "workspace:libs/ts-functions"
+    "ts-functions": "workspace:*"
   },
   "keywords": [],
   "author": "Milan Mladek",

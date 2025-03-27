@@ -1,13 +1,13 @@
 {
   "name": "app-1",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "ts-functions": "workspace:*"
+    "ts-functions": "workspace:libs/ts-functions"
   },
   "keywords": [],
   "author": "Milan Mladek",

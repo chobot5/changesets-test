@@ -1,4 +1,4 @@
 export const app1 = () => {
-    console.log("app1x")
+    console.log("app2x")
 
 }

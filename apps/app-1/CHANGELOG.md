@@ -1,5 +1,12 @@
 # app-1
 
+## 2.1.2
+
+### Patch Changes
+
+- c852f78: helloooo
+- c852f78: helloxxx
+
 ## 2.1.1
 
 ### Patch Changes

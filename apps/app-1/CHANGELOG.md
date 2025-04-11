@@ -1,5 +1,11 @@
 # app-1
 
+## 2.2.1
+
+### Patch Changes
+
+- 61081b9: testik6
+
 ## 2.2.0
 
 ### Minor Changes

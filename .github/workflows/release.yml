@@ -24,8 +24,11 @@ jobs:
           node-version: 20
       - name: Install Dependencies
         run: pnpm install --frozen-lockfile
-
       - name: Create Release Pull Request
         uses: changesets/action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: bla
+        run: pnpm run changeset:release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

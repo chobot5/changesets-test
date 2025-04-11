@@ -6,6 +6,7 @@
   "scripts": {
     "version": "changeset version",
     "changeset": "changeset",
+    "changeset:release": "changeset tag",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

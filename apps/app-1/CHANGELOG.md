@@ -1,5 +1,11 @@
 # app-1
 
+## 2.2.0
+
+### Minor Changes
+
+- 37166ef: releasek
+
 ## 2.1.2
 
 ### Patch Changes

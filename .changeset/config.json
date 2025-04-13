@@ -8,9 +8,6 @@
   "baseBranch": "master",
   "updateInternalDependencies": "patch",
   "ignore": [],
-  "publishConfig": {
-    "directory": "dist"
-  },
   "privatePackages": {
     "version": true,
     "tag": true

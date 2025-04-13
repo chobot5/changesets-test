@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "directory": "dist"
+  },
   "scripts": {
     "version": "changeset version",
     "changeset": "changeset",

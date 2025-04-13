@@ -1,5 +1,11 @@
 # app-1
 
+## 2.3.2
+
+### Patch Changes
+
+- 31253fd: app-1-9 change
+
 ## 2.3.1
 
 ### Patch Changes

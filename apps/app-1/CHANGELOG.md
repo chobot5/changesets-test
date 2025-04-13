@@ -1,5 +1,11 @@
 # app-1
 
+## 2.4.1
+
+### Patch Changes
+
+- 13ab9bc: app-1-14
+
 ## 2.4.0
 
 ### Minor Changes

@@ -2,12 +2,14 @@ name: Auto Merge Specific PRs
 
 on:
   pull_request:
+    branches: 
+      - master
     types: [opened, synchronize, labeled]
 
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.head.ref == 'changeset-release/master'
+    if: ${{ !contains(github.event.pull_request.head.ref, 'changeset-release/master') }}
     steps:
       - name: Auto-merge PR
         uses: actions/github-script@v7

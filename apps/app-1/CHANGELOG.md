@@ -1,5 +1,11 @@
 # app-1
 
+## 2.4.2
+
+### Patch Changes
+
+- d69823d: app-1-15
+
 ## 2.4.1
 
 ### Patch Changes

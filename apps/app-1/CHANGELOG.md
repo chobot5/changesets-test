@@ -1,5 +1,11 @@
 # app-1
 
+## 2.3.4
+
+### Patch Changes
+
+- 52b5c4e: app-1-11
+
 ## 2.3.3
 
 ### Patch Changes

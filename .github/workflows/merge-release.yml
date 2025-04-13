@@ -9,7 +9,7 @@ on:
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    if: ${{ !contains(github.event.pull_request.head.ref, 'changeset-release/master') }}
+    if: ${{ contains(github.event.pull_request.head.ref, 'changeset-release/master') }}
     steps:
       - name: Auto-merge PR
         uses: actions/github-script@v7

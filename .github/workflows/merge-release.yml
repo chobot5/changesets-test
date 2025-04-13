@@ -26,9 +26,7 @@ jobs:
               pull_number: prNumber
             });
 
-            console.log(updatedPr);
-
-            if (updatedPr.mergeable && updatedPr.mergeable_state === 'clean') {
+            if (updatedPr.mergeable) {
               await github.rest.pulls.merge({
                 owner: context.repo.owner,
                 repo: context.repo.repo,

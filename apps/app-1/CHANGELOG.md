@@ -1,5 +1,11 @@
 # app-1
 
+## 2.3.1
+
+### Patch Changes
+
+- 5008dee: app-18
+
 ## 2.3.0
 
 ### Minor Changes

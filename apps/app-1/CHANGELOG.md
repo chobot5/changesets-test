@@ -1,5 +1,11 @@
 # app-1
 
+## 2.4.3
+
+### Patch Changes
+
+- fb2557b: app-1-16
+
 ## 2.4.2
 
 ### Patch Changes

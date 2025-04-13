@@ -1,5 +1,11 @@
 # app-1
 
+## 2.4.0
+
+### Minor Changes
+
+- 54cc45a: apps update
+
 ## 2.3.5
 
 ### Patch Changes

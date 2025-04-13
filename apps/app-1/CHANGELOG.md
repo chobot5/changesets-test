@@ -1,5 +1,11 @@
 # app-1
 
+## 2.3.5
+
+### Patch Changes
+
+- 13acbdf: app-1-12
+
 ## 2.3.4
 
 ### Patch Changes

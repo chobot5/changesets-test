@@ -1,5 +1,11 @@
 # app-2
 
+## 1.1.0
+
+### Minor Changes
+
+- 54cc45a: apps update
+
 ## 1.0.1
 
 ### Patch Changes

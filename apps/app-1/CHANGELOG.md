@@ -1,5 +1,11 @@
 # app-1
 
+## 2.3.3
+
+### Patch Changes
+
+- 3b130b0: app-1-10
+
 ## 2.3.2
 
 ### Patch Changes

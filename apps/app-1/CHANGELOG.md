@@ -1,5 +1,11 @@
 # app-1
 
+## 2.5.0
+
+### Minor Changes
+
+- 25c473e: dsfsdf
+
 ## 2.4.3
 
 ### Patch Changes

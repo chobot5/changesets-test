@@ -1,5 +1,11 @@
 # app-1
 
+## 2.6.0
+
+### Minor Changes
+
+- de6b48a: bla bla
+
 ## 2.5.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # app-1
 
+## 2.6.1
+
+### Patch Changes
+
+- 350231e: lefu
+
 ## 2.6.0
 
 ### Minor Changes

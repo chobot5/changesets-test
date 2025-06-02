@@ -7,6 +7,7 @@
     "directory": "dist"
   },
   "scripts": {
+    "xxx": "pnpm nx affected --target=publish:custom --base=master --head=HEAD",
     "version": "changeset version",
     "changeset": "changeset",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +18,7 @@
   "devDependencies": {
     "@changesets/changelog-git": "^0.2.1",
     "@changesets/cli": "^2.28.1",
-    "prettier": "^3.5.3"
+    "prettier": "^3.5.3",
+    "nx": "21.1.2"
   }
 }

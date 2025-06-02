@@ -1,5 +1,11 @@
 # app-1
 
+## 2.7.0
+
+### Minor Changes
+
+- a6fda78: lefu23
+
 ## 2.6.1
 
 ### Patch Changes

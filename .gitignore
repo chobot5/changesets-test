@@ -39,3 +39,4 @@ Thumbs.db
 
 # Next.js
 .next
+/apps/app-1/dist/

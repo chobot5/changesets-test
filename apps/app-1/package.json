@@ -1,10 +1,11 @@
 {
-  "private": "true",
   "name": "app-1",
   "version": "2.6.1",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "hu": "echo \"run app-1 $PWD\"",
+    "publish:custom": "pnpm run hu",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

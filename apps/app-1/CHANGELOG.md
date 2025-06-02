@@ -1,5 +1,11 @@
 # app-1
 
+## 2.8.0
+
+### Minor Changes
+
+- 4db447e: leffuuuu
+
 ## 2.7.0
 
 ### Minor Changes

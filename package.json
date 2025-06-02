@@ -7,7 +7,7 @@
     "directory": "dist"
   },
   "scripts": {
-    "xxx": "pnpm nx affected --target=publish:custom --base=master --head=HEAD",
+    "xxx": "pnpm nx affected --target=up --yes",
     "version": "changeset version",
     "changeset": "changeset",
     "test": "echo \"Error: no test specified\" && exit 1"

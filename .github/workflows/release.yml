@@ -29,6 +29,6 @@ jobs:
         with:
           title: "chore: release"
           commit: "chore: release"
-          publish: pnpm changeset tag
+          publish: pnpm run publish:custom
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
